@@ -41,7 +41,7 @@ SEARCH_KEYWORD = "Digital Decade"
 # Fichier à exporter
 EXPORT_FILE = "final_analytic.csv"
 # Bing API
-BING_API = "1b53f9b18889472abcef246fe09246e4"
+BING_API = ""
 
 """Affichage des variables
 """
