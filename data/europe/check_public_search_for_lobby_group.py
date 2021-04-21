@@ -3,7 +3,7 @@
 L'ensemble du script a besoin du registre de la transparence au format .csv (UTF-8) et d'une clé d'API Bing.
 
 Author:
-	Grégoire Gaonach
+	Grégoire
 
 Date:
 	Avril 2021
